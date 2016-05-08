@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on 理想の家族形成を支援するFamily1st</title>
+    <link>https://family1st.jp/book/</link>
+    <description>Recent content in Books on 理想の家族形成を支援するFamily1st</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 13 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://family1st.jp/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Review - Books</title>
+      <link>https://family1st.jp/book/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://family1st.jp/book/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;『&lt;a href=&#34;https://family1st.jp/book/sommerfuglen&#34;&gt;蝶&lt;/a&gt;』（アンデルセン）&lt;/li&gt;
+&lt;li&gt;『&lt;a href=&#34;https://family1st.jp/book/how-to-win-friends-and-influence-people/&#34;&gt;人を動かす&lt;/a&gt;』（デール・カーネギー）&lt;/li&gt;
+&lt;li&gt;『&lt;a href=&#34;https://family1st.jp/book/the-one-thing-you-need-to-know&#34;&gt;最高のリーダー、マネジャーがいつも考えているたったひとつのこと&lt;/a&gt;』（マーカス・バッキンガム）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Review - Sommerfuglen</title>
+      <link>https://family1st.jp/book/sommerfuglen/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://family1st.jp/book/sommerfuglen/</guid>
+      <description>&lt;p&gt;『&lt;a href=&#34;https://family1st.jp/book/sommerfuglen&#34;&gt;蝶&lt;/a&gt;』（アンデルセン）&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
